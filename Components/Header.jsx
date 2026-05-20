@@ -13,7 +13,7 @@ export default function Header() {
       <div className="header-content">
         <h2 className="title">
           
-          Where in the world?
+          Where in the worlds?
         </h2>
         <p className="theme-changer" onClick={()=>{
           
