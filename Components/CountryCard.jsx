@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, useOutletContext } from 'react-router-dom'
-
+//hi
 
 
 export default function CountryCard({name, flag, population,region,capital, data}) {
